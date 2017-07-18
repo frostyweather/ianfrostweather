@@ -86,16 +86,4 @@
 			</nav><!-- #access -->
 	</header><!-- #branding -->
 
-	<div class="test">
-		<button class="c-btn ">
-	    <div class="c-btn__inner">
-	      <svg class="c-btn__icon">
-	        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/wp-content/themes/ianfrostweather/images/icons.svg#icon-caret-left"></use>
-	      </svg>
-	      <span class="c-btn__text">Icon Button</span>
-	    </div>
-	  </button>
-	</div>
-
-
 	<div id="main">
